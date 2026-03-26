@@ -1,18 +1,23 @@
-# Jordi Been
+# JB
 
-<!--START_SECTION:cowsay-->
-```
- _______________________________________
-/    homo sum,                          \
-\    humani nihil a me alienum punto    /
- ---------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+I'm **Jordi Been**, backend and platform engineer. 👋
+
+I write code, wrangle infrastructure, and frequently question human existence. When I'm not staring at a terminal, I'm playing guitar, losing at chess, or spiraling down random rabbit holes. Based in Rotterdam, Netherlands. 11+ years in the game.
+
+> Self-host everything. Nothing is forever.
+
+#### Stack
 
 ```
-<!--END_SECTION:cowsay-->
+Python · Rust · Kubernetes · AWS · Terraform · CI/CD
+PostgreSQL · Redis · ClickHouse · MQTT · AMQP · Microservices
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordibeen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+#### Work
+
+Currently work as Tech Lead at [Check Technologies](https://ridecheck.app), a shared mobility operator running bikes, cars, and mopeds across Dutch cities where I'm improving mobility in the Netherlands. Or at least trying to.
+
+#### Elsewhere
+
+- 📡 [jordibeen.com](https://jordibeen.com) i write about things I care about (when I care enough to write)
+- 📬 [hi@jordibeen.com](mailto:hi@jordibeen.com) if you must
